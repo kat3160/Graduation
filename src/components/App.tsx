@@ -72,7 +72,7 @@ const App: React.FC = (props) => {
     }
 
     
-    $.get('test.json', function (data: any) {
+    $.get('http://localhost:3002/public/test.json', function (data: any) {
 
       let imageSrc = ''
       const imageSize = new window.kakao.maps.Size(20, 20)

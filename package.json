@@ -13,6 +13,7 @@
     "@types/react-router-dom": "^5.1.5",
     "cors": "^2.8.5",
     "emailjs-com": "^2.6.3",
+    "http-proxy-middleware": "^1.0.6",
     "jquery": "^3.5.1",
     "mkcert": "^1.4.0",
     "react": "^16.13.1",
